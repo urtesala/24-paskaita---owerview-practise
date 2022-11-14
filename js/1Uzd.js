@@ -17,4 +17,4 @@ localStorage.setItem("user", userJson);
 
 localStorage.getItem("user", userJson);
 
-document.body.append(userJson);
+document.body.append();
